@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: c2c
+  datasource: #!!!!!!!!!!!!!!!!!!!11
+    url: jdbc:mysql://localhost:3306/big_event
+    username: root
+    password: 312413zsjnmdr
+    driver-class-name: com.mysql.cj.jdbc.Driver
